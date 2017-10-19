@@ -1,0 +1,1 @@
+# global-encryption-class
